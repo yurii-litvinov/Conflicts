@@ -7,3 +7,4 @@ succeed to a considerable extent. Anyway, rounding anomalies that preoccupied al
 CRAY X-MPs — J90s now.
 so those features are mishandled and/or practically unusable,
 To help break that circle,  those features are discussed in these notes under the following headings:Representable Numbers:
+Exceptions in General; Retrospective Diagnostics 6
