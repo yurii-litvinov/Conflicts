@@ -10,3 +10,4 @@ To help break that circle,  those features are discussed in these notes under th
 Multiply-Accumulate, a Mixed Blessing 5
 Exceptions in General; Retrospective Diagnostics 6
 supersedes one distributed at a panel discussion of “Floating-Point Past, Present and Future” in a series of San 
+K+1 Exponent bits: 1 - 2K < k < 2K . N Significant bits: -2N < n < 2N 
