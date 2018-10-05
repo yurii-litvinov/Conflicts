@@ -1,1 +1,2 @@
 Lecture
+Twenty years ago anarchy threatened floating-point arithmetic. Over a dozen commercially significant arithmetics 
