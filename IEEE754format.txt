@@ -3,6 +3,7 @@ Twenty years ago anarchy threatened floating-point arithmetic. Over a dozen comm
 boasted diverse wordsizes, precisions, rounding procedures and over/underflow behaviors, and more were in the
 works. “Portable” software intended to reconcile that numerical diversity had become unbearably costly to
 develop.
+Thirteen years ago, when IEEE 754 became official, major microprocessor manufacturers had already adopted it 
 despite the challenge it posed to implementors. With unprecedented altruism, hardware designers had risen to its
 succeed to a considerable extent. Anyway, rounding anomalies that preoccupied all of us in the 1970s afflict only 
 CRAY X-MPs — J90s now.
@@ -14,4 +15,8 @@ Representable Numbers, Normal and Subnormal, Infinite and NaN 2
 Multiply-Accumulate, a Mixed Blessing 5
 Exceptions in General; Retrospective Diagnostics 6
 supersedes one distributed at a panel discussion of “Floating-Point Past, Present and Future” in a series of San 
+<<<<<<< HEAD
+
+=======
 K+1 Exponent bits: 1 - 2K < k < 2K . N Significant bits: -2N < n < 2N 
+>>>>>>> 25a4ecebc62a7f15f082de2217872911e54dfbf7
