@@ -1,1 +1,11 @@
 Lecture
+
+
+
+
+
+
+
+
+
+Those features lack support in programming languages and compilers,
