@@ -1,5 +1,2 @@
 Lecture
-works. “Portable” software intended to reconcile that numerical diversity had become unbearably costly to
-develop.
-despite the challenge it posed to implementors. With unprecedented altruism, hardware designers had risen to its
-so those features are mishandled and/or practically unusable,
+Representable Numbers,  Normal  and  Subnormal,  Infinite  and  NaN  2 
