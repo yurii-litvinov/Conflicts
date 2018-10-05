@@ -14,9 +14,5 @@ To help break that circle,  those features are discussed in these notes under th
 Representable Numbers, Normal and Subnormal, Infinite and NaN 2
 Multiply-Accumulate, a Mixed Blessing 5
 Exceptions in General; Retrospective Diagnostics 6
-supersedes one distributed at a panel discussion of “Floating-Point Past, Present and Future” in a series of San 
-<<<<<<< HEAD
-
-=======
-K+1 Exponent bits: 1 - 2K < k < 2K . N Significant bits: -2N < n < 2N 
->>>>>>> 25a4ecebc62a7f15f082de2217872911e54dfbf7
+supersedes one distributed at a panel discussion of “Floating-Point Past, Present and Future” in a series of San
+K+1 Exponent bits: 1 - 2K < k < 2K . N Significant bits: -2N < n < 2N
