@@ -1,5 +1,6 @@
 Lecture
 works. “Portable” software intended to reconcile that numerical diversity had become unbearably costly to
 develop.
+Thirteen years ago, when IEEE 754 became official, major microprocessor manufacturers had already adopted it 
 despite the challenge it posed to implementors. With unprecedented altruism, hardware designers had risen to its
 so those features are mishandled and/or practically unusable,
