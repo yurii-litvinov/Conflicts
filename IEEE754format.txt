@@ -3,4 +3,5 @@ boasted diverse wordsizes, precisions, rounding procedures and over/underflow be
 works. “Portable” software intended to reconcile that numerical diversity had become unbearably costly to
 develop.
 despite the challenge it posed to implementors. With unprecedented altruism, hardware designers had risen to its
+succeed to a considerable extent. Anyway, rounding anomalies that preoccupied all of us in the 1970s afflict only 
 so those features are mishandled and/or practically unusable,
