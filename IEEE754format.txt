@@ -1,2 +1,4 @@
 Lecture
-Twenty years ago anarchy threatened floating-point arithmetic. Over a dozen commercially significant arithmetics 
+Twenty years ago anarchy threatened floating-point arithmetic. Over a dozen commercially significant arithmetics works. “Portable” software intended to reconcile that numerical diversity had become unbearably costly to
+develop.
+so those features are mishandled and/or practically unusable,
