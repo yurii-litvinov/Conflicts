@@ -15,3 +15,8 @@ Multiply-Accumulate, a Mixed Blessing 5
 Exceptions in General; Retrospective Diagnostics 6
 supersedes one distributed at a panel discussion of “Floating-Point Past, Present and Future” in a series of San
 K+1 Exponent bits: 1 - 2K < k < 2K . N Significant bits: -2N < n < 2N
+Would you tell me, please, which way I ought to go from here?
+That depends a good deal on where you want to get to.
+I don't much care where â€“
+Then it doesn't matter which way you go.
+â€• Lewis Carroll, Alice in Wonderland 
