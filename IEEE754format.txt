@@ -6,4 +6,4 @@ despite the challenge it posed to implementors. With unprecedented altruism, har
 succeed to a considerable extent. Anyway, rounding anomalies that preoccupied all of us in the 1970s afflict only 
 CRAY X-MPs — J90s now.
 so those features are mishandled and/or practically unusable,
-To help break that circle,  those features are discussed in these notes under the following headings:
+To help break that circle,  those features are discussed in these notes under the following headings:Representable Numbers:
