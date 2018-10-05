@@ -7,6 +7,7 @@ Thirteen years ago, when IEEE 754 became official, major microprocessor manufact
 despite the challenge it posed to implementors. With unprecedented altruism, hardware designers had risen to its
 succeed to a considerable extent. Anyway, rounding anomalies that preoccupied all of us in the 1970s afflict only 
 CRAY X-MPs — J90s now.
+Those features lack support in programming languages and compilers,
 so those features are mishandled and/or practically unusable,
 To help break that circle,  those features are discussed in these notes under the following headings:
 Representable Numbers, Normal and Subnormal, Infinite and NaN 2
