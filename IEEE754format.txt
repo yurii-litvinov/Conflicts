@@ -1,6 +1,5 @@
 Lecture
-Twenty years ago anarchy threatened floating-point arithmetic. Over a dozen commercially significant arithmetics 
-boasted diverse wordsizes, precisions, rounding procedures and over/underflow behaviors, and more were in the
+Twenty years ago anarchy threatened floating-point arithmetic. Over a dozen commercially significant arithmetics boasted diverse wordsizes, precisions, rounding procedures and over/underflow behaviors, and more were in the
 works. “Portable” software intended to reconcile that numerical diversity had become unbearably costly to
 develop.
 despite the challenge it posed to implementors. With unprecedented altruism, hardware designers had risen to its
