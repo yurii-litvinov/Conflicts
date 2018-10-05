@@ -1,2 +1,11 @@
 Lecture
+<<<<<<< HEAD
 Representable Numbers,  Normal  and  Subnormal,  Infinite  and  NaN  2 
+=======
+Twenty years ago anarchy threatened floating-point arithmetic. Over a dozen commercially significant arithmetics 
+works. “Portable” software intended to reconcile that numerical diversity had become unbearably costly to
+develop.
+despite the challenge it posed to implementors. With unprecedented altruism, hardware designers had risen to its
+succeed to a considerable extent. Anyway, rounding anomalies that preoccupied all of us in the 1970s afflict only 
+so those features are mishandled and/or practically unusable,
+>>>>>>> 9689e4553bd4fd1fa4d85abb14cf9b7b40450ef0
