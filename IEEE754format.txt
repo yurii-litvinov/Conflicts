@@ -6,4 +6,3 @@ succeed to a considerable extent. Anyway, rounding anomalies that preoccupied al
 CRAY X-MPs — J90s now.
 >>>>>>> a926606fed97cb19e477e18ee93233897b383b78
 so those features are mishandled and/or practically unusable,
->>>>>>> 803e0f894d1259fde42e30c92a1742923982dde9
